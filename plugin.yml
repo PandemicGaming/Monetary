@@ -1,0 +1,6 @@
+name: Monetary
+main: me.pandemic.monetary.Monetary
+version: 0.1
+description: >
+             An economy plugin for bukkit
+commands:
