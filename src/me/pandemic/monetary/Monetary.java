@@ -17,11 +17,7 @@ public class Monetary extends JavaPlugin
 	@SuppressWarnings("unchecked")
 	public void onEnable()
 	{
-<<<<<<< HEAD
 		System.out.println("[Monetary] Monetary is loading accounts...");
-=======
-		System.out.println("[Monetary] Monetary is loading accounts");
->>>>>>> 64f5801c6ebb018e337cc0ffaffa3ea03049d4d4
 	    FileInputStream fis = null;
 	    ObjectInputStream in = null;
 	    try
