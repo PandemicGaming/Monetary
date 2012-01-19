@@ -4,3 +4,7 @@ version: 0.1
 description: >
              An economy plugin for bukkit
 commands:
+    balance:
+        description: Check your balance
+    addmoney:
+        description: Adds money to a players account
